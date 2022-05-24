@@ -1,4 +1,5 @@
-find "findme" with some file extention from system 
+find "findme" with some file extention from system and display its contents
 
-Output example:
+Output format:
 /dir/dir/dir/findme.exten
+file_contents
