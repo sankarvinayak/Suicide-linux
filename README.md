@@ -11,3 +11,9 @@ and tasks inspied from [cmdchallenge](https://cmdchallenge.com)
 * Output of each commands including commands and output has to be appended to the output.txt file (Create if not exists)
 * All the required file are in this folder and it assumed to be the working directory
 
+## Running docker image
+the image can be pulled directly from dockerhub by using
+```
+docker pull sankarvinayak/suicide_linux:latest
+```
+or can be build using the Dockerfile
