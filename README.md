@@ -14,6 +14,6 @@ and tasks inspied from [cmdchallenge](https://cmdchallenge.com)
 ## Running docker image
 the image can be pulled directly from dockerhub by using
 ```
-docker pull sankarvinayak/suicide_linux:latest
+docker pull sankarvinayak/suicide_linux
 ```
 or can be build using the Dockerfile
