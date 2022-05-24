@@ -1,10 +1,10 @@
-FROM ubuntu
+FROM alpine
 
-COPY bash.bashrc /etc/
 COPY findme.txt /etc/
 COPY suicide/ /tmp/
-RUN  apt-get update \
-  && apt-get install -y wget nano \
-  && rm -rf /var/lib/apt/lists/*
+RUN  apk update \
+  && apk add ca-certificates wget nano bash \
+  && update-ca-certificates 
 
+COPY bashrc /etc/bash
 ENTRYPOINT ["bash"]

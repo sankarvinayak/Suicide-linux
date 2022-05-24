@@ -1,2 +1,4 @@
-find findme.txt from system
+find "findme" with some file extention from system 
 
+Output example:
+/dir/dir/dir/findme.exten
