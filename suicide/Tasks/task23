@@ -1,0 +1,1 @@
+create a symlink with the downloaded index.html file inside firefxindex folder to /tmp in the name firefox and print its contents
