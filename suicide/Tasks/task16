@@ -1,1 +1,8 @@
-Print the 6th line of change.csv file
+
+find "findme" with some file extention from system and display its contents
+
+Output format:
+/dir/dir/dir/findme.exten
+file_contents
+
+

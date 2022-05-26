@@ -1,11 +1,7 @@
-print the second column of the change.csv file ("," is the seperator, colum with string not numbers)
+find "findme" with some file extention from system and display its contents
 
-Output example:
-"Eldon Base for stackable storage shelf platinum"
-"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators"
-..
-..
-..
-..
-Xerox 198
+Output format:
+/dir/dir/dir/findme.exten
+file_contents
+
 

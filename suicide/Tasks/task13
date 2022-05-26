@@ -1,5 +1,2 @@
-find "findme" with some file extention from system and display its contents
+rename ascii1 to asciinew
 
-Output format:
-/dir/dir/dir/findme.exten
-file_contents

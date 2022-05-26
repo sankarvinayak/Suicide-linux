@@ -1,1 +1,4 @@
-find the unique numbers from ramdom.txt file and count it
+There is a file named "split" withe values seperated by ";" replace it(symbol not file) with newline charater
+
+Output example:
+1 2 3 ...... 100

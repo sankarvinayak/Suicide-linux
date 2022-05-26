@@ -1,1 +1,4 @@
-download https://www.mozilla.org/en-US/ into a new folder called firefoxindex
+print the disk status in the format
+Filesystem           1K-blocks      Used Available Use% Mounted on 
+
+
