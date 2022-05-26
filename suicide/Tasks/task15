@@ -1,7 +1,3 @@
-find "findme" with some file extention from system and display its contents
-
-Output format:
-/dir/dir/dir/findme.exten
-file_contents
-
-
+Print the numbers 1 to 100 separated by spaces (no new line)
+Output:
+1 2 3 4 
