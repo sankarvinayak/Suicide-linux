@@ -17,3 +17,7 @@ the image can be pulled directly from dockerhub by using
 docker pull sankarvinayak/suicide_linux
 ```
 or can be build using the Dockerfile
+```
+docker pull sankarvinayak/suicide_linux:offline
+```
+can be used for trying image in an offline environment
