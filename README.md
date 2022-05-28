@@ -21,5 +21,4 @@ or
 sudo docker load -i suicide.tar.gz
 ```
 can be used for using the offline tar archive file <br>
-
-can be build using the Dockerfile
+also can be build using the Dockerfile 
