@@ -1,1 +1,2 @@
-find the unique numbers from ramdom.txt file and count it
+create a shell function which will create a folder in the path you specified(take input from console) and create 5 files in the name you specified(take input from console)
+create a shellscrpit which take user input if it is grater than 5 call the function you defined once else print your name save the script in a file and run twice once input grater than 5 and once less than print the contents of the directry created by the function

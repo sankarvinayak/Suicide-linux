@@ -1,2 +1,12 @@
-Print the 6th line of change.csv file
+print the second column of the change.csv file ("," is the seperator, colum with string not numbers)
+
+Output example:
+"Eldon Base for stackable storage shelf platinum"
+"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators"
+..
+..
+..
+..
+Xerox 198
+
 

@@ -1,4 +1,7 @@
-There is a file named "split" withe values seperated by ";" replace it(symbol not file) with newline charater
+find "findme" with some file extention from system and display its contents
 
-Output example:
-1 2 3 ...... 100
+Output format example:
+/dir/dir/dir/findme.exten
+file_contents
+
+

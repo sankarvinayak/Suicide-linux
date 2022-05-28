@@ -1,1 +1,1 @@
-count the number of line in "syslog" file
+print the RAM and SWAP usage details includeing available,free,used etc

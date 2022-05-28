@@ -1,12 +1,2 @@
-print the second column of the change.csv file ("," is the seperator, colum with string not numbers)
-
-Output example:
-"Eldon Base for stackable storage shelf platinum"
-"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators"
-..
-..
-..
-..
-Xerox 198
-
+create a symlink with task5 in Tasks folder in to the  /tmp in the name tak5 and print its contents
 

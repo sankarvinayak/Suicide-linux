@@ -1,4 +1,4 @@
-print the disk status in the format
-Filesystem           1K-blocks      Used Available Use% Mounted on 
+There is a file named "split" withe values seperated by ";" replace it(symbol not file) with newline charater print it
 
-
+Output example:
+1 2 3 ...... 100
