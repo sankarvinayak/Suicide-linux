@@ -1,7 +1,24 @@
 This is a linux shell challange
-It includes a set of basic linux shell commands 
-The tasks can be found under the "Tasks" folder
-It has to be done inside the suicide linux because any mistake will delete all files
-Output of each commands including commands and output has to be appended to the output.txt file (Create if not exists)
-All the required file are in this folder and it assumed to be the working directory
 
+It includes a set of basic linux shell commands 
+
+The tasks can be found under the "Tasks" directory in /tmp
+
+Any mistake will delete all files including the output.txt 
+
+Output of each commands has to be appended to the output.txt file 
+
+Text editors which are available in the suicide linux environment can be used
+
+All the required file are in /tmp and it assumed to be the working directory
+
+You can make as many attemts within the time limit
+
+NOT allowed to use MOUSE
+
+!!!!		Only the "LAST 3" attempts will be considered		!!!!
+
+
+
+Task 0
+Go to /tmp and read your first task from task1 under Tasks directory.

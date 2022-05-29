@@ -12,7 +12,5 @@ function any_error(){
 	fi; 
 }
 PROMPT_COMMAND=any_error
-cd /tmp
-cat ascii1
-echo " "
-cat Instructions
+cat /tmp/ascii1
+cat /tmp/Instructions
